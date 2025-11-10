@@ -9,7 +9,7 @@ import pandas as pd
 import numpy as np
 import time
 from datetime import datetime
-from live_trade_signal import fetch_live_chain, fetch_minute_bars_simple
+from live_trade_signal import fetch_live_chain, fetch_minute_bars_smart
 from zero_dte_live_decider import decide_trade, pick_atm_leg
 
 # Page config
@@ -41,7 +41,7 @@ while True:
             # Fetch data
             with st.spinner("📊 Fetching live data..."):
                 chain_df = fetch_live_chain(ticker)
-                bars_1m = fetch_minute_bars_simple(chain_df, lookback_minutes=lookback_min)
+                bars_1m, data_source = fetch_minute_bars_smart(ticker, lookback_minutes=lookback_min, chain_df=chain_df)
                 spot = float(bars_1m["close"].iloc[-1])
             
             # Make decision
@@ -55,6 +55,7 @@ while True:
             # Display results
             st.markdown(f"### Current Price: ${spot:.2f}")
             st.markdown(f"**Last Update:** {datetime.now().strftime('%H:%M:%S')}")
+            st.markdown(f"**Data Source:** {data_source}")
             
             # Signal box
             action_color = {
@@ -99,7 +100,7 @@ while True:
             # Gamma metrics
             st.markdown("### 📊 Gamma Analysis")
             
-            col1, col2, col3, col4 = st.columns(4)
+            col1, col2, col3, col4, col5 = st.columns(5)
             
             with col1:
                 st.metric("Max Gamma Strike", f"${decision.details.get('max_gamma_strike', 0):.2f}")
@@ -113,6 +114,10 @@ while True:
             
             with col4:
                 st.metric("Pin Strength", f"{decision.details.get('pin_strength', 0):.2%}")
+            
+            with col5:
+                hours_left = decision.details.get('hours_to_close', 0)
+                st.metric("Hours to Close", f"{hours_left:.2f}h")
             
             # Suggested trade
             if decision.action in ("CALL", "PUT"):
