@@ -164,4 +164,1439 @@ Filters: ≤30 DTE, ±50% strikes
     Fetching AAPL... 0 contracts
     Fetching MSFT... 0 contracts
     Fetching AVGO... 0 contracts
-    Fetching META...
+    Fetching META... 0 contracts
+
+[14/131] 2025-05-28 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[15/131] 2025-05-29 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[16/131] 2025-05-30 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[17/131] 2025-06-02 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[18/131] 2025-06-03 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[19/131] 2025-06-04 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[20/131] 2025-06-05 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[21/131] 2025-06-06 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[22/131] 2025-06-09 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[23/131] 2025-06-10 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[24/131] 2025-06-11 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[25/131] 2025-06-12 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[26/131] 2025-06-13 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[27/131] 2025-06-16 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[28/131] 2025-06-17 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[29/131] 2025-06-18 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[30/131] 2025-06-19 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[31/131] 2025-06-20 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[32/131] 2025-06-23 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[33/131] 2025-06-24 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[34/131] 2025-06-25 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[35/131] 2025-06-26 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[36/131] 2025-06-27 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[37/131] 2025-06-30 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[38/131] 2025-07-01 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[39/131] 2025-07-02 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[40/131] 2025-07-03 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[41/131] 2025-07-04 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[42/131] 2025-07-07 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[43/131] 2025-07-08 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[44/131] 2025-07-09 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[45/131] 2025-07-10 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[46/131] 2025-07-11 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[47/131] 2025-07-14 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[48/131] 2025-07-15 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[49/131] 2025-07-16 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[50/131] 2025-07-17 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[51/131] 2025-07-18 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[52/131] 2025-07-21 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[53/131] 2025-07-22 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[54/131] 2025-07-23 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[55/131] 2025-07-24 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[56/131] 2025-07-25 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[57/131] 2025-07-28 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[58/131] 2025-07-29 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[59/131] 2025-07-30 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[60/131] 2025-07-31 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[61/131] 2025-08-01 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[62/131] 2025-08-04 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[63/131] 2025-08-05 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[64/131] 2025-08-06 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[65/131] 2025-08-07 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[66/131] 2025-08-08 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[67/131] 2025-08-11 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[68/131] 2025-08-12 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[69/131] 2025-08-13 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[70/131] 2025-08-14 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[71/131] 2025-08-15 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[72/131] 2025-08-18 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[73/131] 2025-08-19 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[74/131] 2025-08-20 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[75/131] 2025-08-21 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[76/131] 2025-08-22 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[77/131] 2025-08-25 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[78/131] 2025-08-26 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[79/131] 2025-08-27 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[80/131] 2025-08-28 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[81/131] 2025-08-29 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[82/131] 2025-09-01 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[83/131] 2025-09-02 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[84/131] 2025-09-03 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[85/131] 2025-09-04 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[86/131] 2025-09-05 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[87/131] 2025-09-08 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[88/131] 2025-09-09 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[89/131] 2025-09-10 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[90/131] 2025-09-11 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[91/131] 2025-09-12 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[92/131] 2025-09-15 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[93/131] 2025-09-16 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[94/131] 2025-09-17 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[95/131] 2025-09-18 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[96/131] 2025-09-19 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[97/131] 2025-09-22 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[98/131] 2025-09-23 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[99/131] 2025-09-24 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[100/131] 2025-09-25 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[101/131] 2025-09-26 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[102/131] 2025-09-29 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[103/131] 2025-09-30 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[104/131] 2025-10-01 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[105/131] 2025-10-02 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[106/131] 2025-10-03 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[107/131] 2025-10-06 (Monday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[108/131] 2025-10-07 (Tuesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[109/131] 2025-10-08 (Wednesday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[110/131] 2025-10-09 (Thursday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[111/131] 2025-10-10 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[112/131] 2025-10-13 (Monday):
+    Fetching QQQ... 594 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[113/131] 2025-10-14 (Tuesday):
+    Fetching QQQ... 784 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[114/131] 2025-10-15 (Wednesday):
+    Fetching QQQ... 1060 contracts
+    Fetching NVDA... 124 contracts
+    Fetching TSLA... 252 contracts
+    Fetching COIN... 202 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 290 contracts
+
+[115/131] 2025-10-16 (Thursday):
+    Fetching QQQ... 1060 contracts
+    Fetching NVDA... 124 contracts
+    Fetching TSLA... 252 contracts
+    Fetching COIN... 202 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 290 contracts
+
+[116/131] 2025-10-17 (Friday):
+    Fetching QQQ... 1060 contracts
+    Fetching NVDA... 124 contracts
+    Fetching TSLA... 252 contracts
+    Fetching COIN... 202 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 290 contracts
+
+[117/131] 2025-10-20 (Monday):
+    Fetching QQQ... 1366 contracts
+    Fetching NVDA... 124 contracts
+    Fetching TSLA... 252 contracts
+    Fetching COIN... 202 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 290 contracts
+
+[118/131] 2025-10-21 (Tuesday):
+    Fetching QQQ... 1426 contracts
+    Fetching NVDA... 124 contracts
+    Fetching TSLA... 252 contracts
+    Fetching COIN... 202 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 290 contracts
+
+[119/131] 2025-10-22 (Wednesday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 256 contracts
+    Fetching TSLA... 464 contracts
+    Fetching COIN... 398 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 320 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 372 contracts
+    Fetching META... 604 contracts
+
+[120/131] 2025-10-23 (Thursday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 256 contracts
+    Fetching TSLA... 464 contracts
+    Fetching COIN... 398 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 320 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 372 contracts
+    Fetching META... 604 contracts
+
+[121/131] 2025-10-24 (Friday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 256 contracts
+    Fetching TSLA... 464 contracts
+    Fetching COIN... 398 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 320 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 372 contracts
+    Fetching META... 604 contracts
+
+[122/131] 2025-10-27 (Monday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 256 contracts
+    Fetching TSLA... 464 contracts
+    Fetching COIN... 398 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 320 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 372 contracts
+    Fetching META... 604 contracts
+
+[123/131] 2025-10-28 (Tuesday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 256 contracts
+    Fetching TSLA... 464 contracts
+    Fetching COIN... 398 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 320 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 372 contracts
+    Fetching META... 604 contracts
+
+[124/131] 2025-10-29 (Wednesday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 334 contracts
+    Fetching TSLA... 628 contracts
+    Fetching COIN... 526 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 414 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 510 contracts
+    Fetching META... 820 contracts
+
+[125/131] 2025-10-30 (Thursday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 334 contracts
+    Fetching TSLA... 628 contracts
+    Fetching COIN... 526 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 414 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 510 contracts
+    Fetching META... 820 contracts
+
+[126/131] 2025-10-31 (Friday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 334 contracts
+    Fetching TSLA... 628 contracts
+    Fetching COIN... 526 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 414 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 510 contracts
+    Fetching META... 820 contracts
+
+[127/131] 2025-11-03 (Monday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 334 contracts
+    Fetching TSLA... 628 contracts
+    Fetching COIN... 526 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 414 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 510 contracts
+    Fetching META... 820 contracts
+
+[128/131] 2025-11-04 (Tuesday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 334 contracts
+    Fetching TSLA... 628 contracts
+    Fetching COIN... 526 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 414 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 510 contracts
+    Fetching META... 820 contracts
+
+[129/131] 2025-11-05 (Wednesday):
+    Fetching QQQ... 2346 contracts
+    Fetching NVDA... 412 contracts
+    Fetching TSLA... 792 contracts
+    Fetching COIN... 654 contracts
+    Fetching AMZN... 452 contracts
+    Fetching AMD... 508 contracts
+    Fetching AAPL... 514 contracts
+    Fetching MSFT... 652 contracts
+    Fetching AVGO... 644 contracts
+    Fetching META... 1030 contracts
+
+[130/131] 2025-11-06 (Thursday):
+    Fetching QQQ... 2346 contracts
+    Fetching NVDA... 412 contracts
+    Fetching TSLA... 792 contracts
+    Fetching COIN... 654 contracts
+    Fetching AMZN... 452 contracts
+    Fetching AMD... 508 contracts
+    Fetching AAPL... 514 contracts
+    Fetching MSFT... 652 contracts
+    Fetching AVGO... 644 contracts
+    Fetching META... 1030 contracts
+
+[131/131] 2025-11-07 (Friday):
+    Fetching QQQ... 2346 contracts
+    Fetching NVDA... 412 contracts
+    Fetching TSLA... 792 contracts
+    Fetching COIN... 654 contracts
+    Fetching AMZN... 452 contracts
+    Fetching AMD... 508 contracts
+    Fetching AAPL... 514 contracts
+    Fetching MSFT... 652 contracts
+    Fetching AVGO... 644 contracts
+    Fetching META... 1030 contracts
+
+
+======================================================================
+✅ Dataset Build Complete!
+======================================================================
+Total files created: 182
+Total contracts: 98,072
+Average per file: 538
+
+Data location: data/YYYY-MM-DD/{TICKER}_options.csv
+
+Each CSV contains:
+  • Contract details (ticker, expiration, strike, type)
+  • Greeks (delta, gamma, theta, vega, IV)
+  • Open Interest
+  • Quotes (bid/ask/mid/sizes)
+  • Prices (last trade, OHLC, VWAP)
+  • Volume
+  • Underlying price

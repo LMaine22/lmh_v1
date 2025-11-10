@@ -2,4 +2,8 @@ requests
 python-dotenv
 pandas
 boto3
+pyarrow
+tqdm
+streamlit
+matplotlib
 

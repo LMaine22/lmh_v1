@@ -216,13 +216,17 @@ def fetch_day_data(underlying, data_date, max_dte, strike_range_pct):
     
     # Process contracts
     filtered = []
+    filter_stats = {'total': len(chain), 'parsed': 0, 'dte_filtered': 0, 'strike_filtered': 0, 'kept': 0}
+    
     for contract_dict in chain:
         data = extract_full_contract_data(contract_dict, data_date)
         if not data:
             continue
+        filter_stats['parsed'] += 1
         
         # Filter by DTE
         if data['dte'] < 0 or data['dte'] > max_dte:
+            filter_stats['dte_filtered'] += 1
             continue
         
         # Filter by strike
@@ -230,11 +234,18 @@ def fetch_day_data(underlying, data_date, max_dte, strike_range_pct):
             min_strike = spot * (1 - strike_range_pct)
             max_strike = spot * (1 + strike_range_pct)
             if data['strike'] < min_strike or data['strike'] > max_strike:
+                filter_stats['strike_filtered'] += 1
                 continue
         
         filtered.append(data)
+        filter_stats['kept'] += 1
     
-    print(f" {len(filtered)} contracts")
+    # Debug output
+    if len(filtered) == 0 and filter_stats['total'] > 0:
+        print(f" 0 contracts (raw: {filter_stats['total']}, parsed: {filter_stats['parsed']}, dte_filter: {filter_stats['dte_filtered']}, strike_filter: {filter_stats['strike_filtered']})")
+    else:
+        print(f" {len(filtered)} contracts")
+    
     return filtered
 
 def save_to_csv(data, out_path):
