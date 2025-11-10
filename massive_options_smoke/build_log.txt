@@ -1,0 +1,282 @@
+
+======================================================================
+Building Historical Dataset
+======================================================================
+Date range: 2025-10-10 to 2025-11-09
+Trading days: 21
+Underlyings: QQQ, NVDA, TSLA, COIN, AMZN, AMD, AAPL, MSFT, AVGO, META
+Output: data/YYYY-MM-DD/{TICKER}_options.csv
+
+Filters: ≤30 DTE, ±50% strikes
+======================================================================
+
+[1/21] 2025-10-10 (Friday):
+    Fetching QQQ... 0 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[2/21] 2025-10-13 (Monday):
+    Fetching QQQ... 594 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[3/21] 2025-10-14 (Tuesday):
+    Fetching QQQ... 784 contracts
+    Fetching NVDA... 0 contracts
+    Fetching TSLA... 0 contracts
+    Fetching COIN... 0 contracts
+    Fetching AMZN... 0 contracts
+    Fetching AMD... 0 contracts
+    Fetching AAPL... 0 contracts
+    Fetching MSFT... 0 contracts
+    Fetching AVGO... 0 contracts
+    Fetching META... 0 contracts
+
+[4/21] 2025-10-15 (Wednesday):
+    Fetching QQQ... 1060 contracts
+    Fetching NVDA... 122 contracts
+    Fetching TSLA... 250 contracts
+    Fetching COIN... 196 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 286 contracts
+
+[5/21] 2025-10-16 (Thursday):
+    Fetching QQQ... 1060 contracts
+    Fetching NVDA... 122 contracts
+    Fetching TSLA... 250 contracts
+    Fetching COIN... 196 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 286 contracts
+
+[6/21] 2025-10-17 (Friday):
+    Fetching QQQ... 1060 contracts
+    Fetching NVDA... 122 contracts
+    Fetching TSLA... 250 contracts
+    Fetching COIN... 196 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 286 contracts
+
+[7/21] 2025-10-20 (Monday):
+    Fetching QQQ... 1366 contracts
+    Fetching NVDA... 122 contracts
+    Fetching TSLA... 250 contracts
+    Fetching COIN... 196 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 286 contracts
+
+[8/21] 2025-10-21 (Tuesday):
+    Fetching QQQ... 1426 contracts
+    Fetching NVDA... 122 contracts
+    Fetching TSLA... 250 contracts
+    Fetching COIN... 196 contracts
+    Fetching AMZN... 132 contracts
+    Fetching AMD... 160 contracts
+    Fetching AAPL... 150 contracts
+    Fetching MSFT... 168 contracts
+    Fetching AVGO... 186 contracts
+    Fetching META... 286 contracts
+
+[9/21] 2025-10-22 (Wednesday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 250 contracts
+    Fetching TSLA... 458 contracts
+    Fetching COIN... 392 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 318 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 370 contracts
+    Fetching META... 594 contracts
+
+[10/21] 2025-10-23 (Thursday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 250 contracts
+    Fetching TSLA... 458 contracts
+    Fetching COIN... 392 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 318 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 370 contracts
+    Fetching META... 594 contracts
+
+[11/21] 2025-10-24 (Friday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 250 contracts
+    Fetching TSLA... 458 contracts
+    Fetching COIN... 392 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 318 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 370 contracts
+    Fetching META... 594 contracts
+
+[12/21] 2025-10-27 (Monday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 250 contracts
+    Fetching TSLA... 458 contracts
+    Fetching COIN... 392 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 318 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 370 contracts
+    Fetching META... 594 contracts
+
+[13/21] 2025-10-28 (Tuesday):
+    Fetching QQQ... 1740 contracts
+    Fetching NVDA... 250 contracts
+    Fetching TSLA... 458 contracts
+    Fetching COIN... 392 contracts
+    Fetching AMZN... 268 contracts
+    Fetching AMD... 318 contracts
+    Fetching AAPL... 298 contracts
+    Fetching MSFT... 362 contracts
+    Fetching AVGO... 370 contracts
+    Fetching META... 594 contracts
+
+[14/21] 2025-10-29 (Wednesday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 326 contracts
+    Fetching TSLA... 620 contracts
+    Fetching COIN... 514 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 412 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 508 contracts
+    Fetching META... 806 contracts
+
+[15/21] 2025-10-30 (Thursday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 326 contracts
+    Fetching TSLA... 620 contracts
+    Fetching COIN... 514 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 412 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 508 contracts
+    Fetching META... 806 contracts
+
+[16/21] 2025-10-31 (Friday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 326 contracts
+    Fetching TSLA... 620 contracts
+    Fetching COIN... 514 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 412 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 508 contracts
+    Fetching META... 806 contracts
+
+[17/21] 2025-11-03 (Monday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 326 contracts
+    Fetching TSLA... 620 contracts
+    Fetching COIN... 514 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 412 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 508 contracts
+    Fetching META... 806 contracts
+
+[18/21] 2025-11-04 (Tuesday):
+    Fetching QQQ... 2092 contracts
+    Fetching NVDA... 326 contracts
+    Fetching TSLA... 620 contracts
+    Fetching COIN... 514 contracts
+    Fetching AMZN... 360 contracts
+    Fetching AMD... 412 contracts
+    Fetching AAPL... 406 contracts
+    Fetching MSFT... 506 contracts
+    Fetching AVGO... 508 contracts
+    Fetching META... 806 contracts
+
+[19/21] 2025-11-05 (Wednesday):
+    Fetching QQQ... 2346 contracts
+    Fetching NVDA... 402 contracts
+    Fetching TSLA... 782 contracts
+    Fetching COIN... 636 contracts
+    Fetching AMZN... 452 contracts
+    Fetching AMD... 506 contracts
+    Fetching AAPL... 514 contracts
+    Fetching MSFT... 652 contracts
+    Fetching AVGO... 642 contracts
+    Fetching META... 1012 contracts
+
+[20/21] 2025-11-06 (Thursday):
+    Fetching QQQ... 2346 contracts
+    Fetching NVDA... 402 contracts
+    Fetching TSLA... 782 contracts
+    Fetching COIN... 636 contracts
+    Fetching AMZN... 452 contracts
+    Fetching AMD... 506 contracts
+    Fetching AAPL... 514 contracts
+    Fetching MSFT... 652 contracts
+    Fetching AVGO... 642 contracts
+    Fetching META... 1012 contracts
+
+[21/21] 2025-11-07 (Friday):
+    Fetching QQQ... 2346 contracts
+    Fetching NVDA... 402 contracts
+    Fetching TSLA... 782 contracts
+    Fetching COIN... 636 contracts
+    Fetching AMZN... 452 contracts
+    Fetching AMD... 506 contracts
+    Fetching AAPL... 514 contracts
+    Fetching MSFT... 652 contracts
+    Fetching AVGO... 642 contracts
+    Fetching META... 1012 contracts
+
+
+======================================================================
+✅ Dataset Build Complete!
+======================================================================
+Total files created: 182
+Total contracts: 97,432
+Average per file: 535
+
+Data location: data/YYYY-MM-DD/{TICKER}_options.csv
+
+Each CSV contains:
+  • Contract details (ticker, expiration, strike, type)
+  • Greeks (delta, gamma, theta, vega, IV)
+  • Open Interest
+  • Quotes (bid/ask/mid/sizes)
+  • Prices (last trade, OHLC, VWAP)
+  • Volume
+  • Underlying price
